@@ -1,0 +1,7 @@
+Access token :1032611024652980225-Gktii4HNHJph2e7m0wRISzrSQwpoRx
+
+Access token secret :pcAh1QVl3MkNZoaFRoMa4AsCeAqkBJbPoYGC4Cin2P4jM
+
+curl -u 'pb67Vyisjl0ttW67GVdBgJM4m:fQS5v8cahlHG1Slstg4c4sg1T3TAnchDndIGLTmtxkIVgSF9Lw' \
+  --data 'grant_type=client_credentials' \
+  'https://api.twitter.com/oauth2/token'

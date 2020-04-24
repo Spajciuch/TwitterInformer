@@ -1,0 +1,29 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "Twitter and Discord integration",
+  "main": "server.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spajciuch/Twitter.git"
+  },
+  "keywords": [
+    "twitter",
+    "discord"
+  ],
+  "author": "Spyte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spajciuch/Twitter/issues"
+  },
+  "homepage": "https://github.com/Spajciuch/Twitter#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "twitter": "^1.7.1"
+  }
+}
